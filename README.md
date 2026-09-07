@@ -1,5 +1,11 @@
 # Automated Financial Reconciliation Pipeline
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.9-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Pytest-yellow?style=flat&logo=pytest&logoColor=white)
+
 An enterprise-grade financial data pipeline orchestrating daily cross-system reconciliation between core ledger balances and external payment gateway clearing feeds using **Apache Airflow**, **PostgreSQL**, and **Docker**.
 
 ---
